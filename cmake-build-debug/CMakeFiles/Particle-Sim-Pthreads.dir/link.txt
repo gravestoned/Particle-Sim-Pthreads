@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -std=gnu++11 -lm -o3 -fpermissive -pthread -g  -Wl,--enable-auto-import CMakeFiles/Particle-Sim-Pthreads.dir/src/common.cpp.o CMakeFiles/Particle-Sim-Pthreads.dir/src/main.cpp.o CMakeFiles/Particle-Sim-Pthreads.dir/src/pthread.cpp.o  -o Particle-Sim-Pthreads.exe -Wl,--out-implib,libParticle-Sim-Pthreads.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

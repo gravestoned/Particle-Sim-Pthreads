@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/dev/particle-sim-pthreads-master/src/common.cpp
+common.h
+/cygdrive/d/dev/particle-sim-pthreads-master/src/common.h
+string.h
+-
+sys/time.h
+-
+cmath
+-
+windows.h
+/cygdrive/d/dev/particle-sim-pthreads-master/src/windows.h
+random
+-
+
+/cygdrive/d/dev/particle-sim-pthreads-master/src/common.h
+iostream
+-
+
+/cygdrive/d/dev/particle-sim-pthreads-master/src/main.cpp
+common.h
+/cygdrive/d/dev/particle-sim-pthreads-master/src/common.h
+pthread.h
+/cygdrive/d/dev/particle-sim-pthreads-master/src/pthread.h
+
+/cygdrive/d/dev/particle-sim-pthreads-master/src/pthread.cpp
+cmath
+-
+unistd.h
+-
+pthread.h
+/cygdrive/d/dev/particle-sim-pthreads-master/src/pthread.h
+
+/cygdrive/d/dev/particle-sim-pthreads-master/src/pthread.h
+vector
+-
+common.h
+/cygdrive/d/dev/particle-sim-pthreads-master/src/common.h
+

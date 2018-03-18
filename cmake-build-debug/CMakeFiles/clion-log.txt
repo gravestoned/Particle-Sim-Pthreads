@@ -1,0 +1,5 @@
+E:\cygwin\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/cygwin/bin/make.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/d/dev/particle-sim-pthreads-master
+src:/cygdrive/d/dev/particle-sim-pthreads-master/src/common.cpp/cygdrive/d/dev/particle-sim-pthreads-master/src/main.cpp/cygdrive/d/dev/particle-sim-pthreads-master/src/pthread.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/dev/particle-sim-pthreads-master/cmake-build-debug
